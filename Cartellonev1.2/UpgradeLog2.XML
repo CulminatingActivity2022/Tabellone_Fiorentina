@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Cartellonev1.2">
+</Property><Property Name="File di soluzione" Value="C:\Documents and Settings\Administrator\Desktop\cartellone ver 090406\Cartellonev1.2\Cartellonev1.2.sln">
+</Property><Property Name="Date" Value="mercoledì 19 aprile 2006">
+</Property><Property Name="Time" Value="14.12.08">
+</Property><Property Name="Numero di log" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Setup2.vdproj" Source="..\setup2\Setup2.vdproj" Description="Conversione progetto completata">
+</Event><Event ErrorLevel="3" Project="Setup2.vdproj" Source="..\setup2\Setup2.vdproj" Description="Converted">
+</Event></UpgradeLog>

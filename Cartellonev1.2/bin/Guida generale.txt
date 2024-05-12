@@ -1,0 +1,10 @@
+Guida all'uso del "Cartellone segnapunti" della Societa' Sportiva Fiorentina Baseball.
+
+Con questa applicazione l'operatore puo' aggiornare il cartellone segnapunti in
+qualunque posto all'interno di un cerchio di circa 300 mt di diametro dal cartel
+lone stesso.Il collegamento tra il portatile e il cartellone e' ottenuto per via
+radio,quindi senza fili.All'accensione del PC portatile verra'lanciata l'applica
+zione automaticamente e verra' mostrato una maschera che riproduce la forma del 
+cartellone stesso.L'aggiornamento del punteggio ining per ining si effettua clic
+cando con il mouse sul relativo pulsante e aggiornando quindi il totale tramite 
+il relativo pulsante.

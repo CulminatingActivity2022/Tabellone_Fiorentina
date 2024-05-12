@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Cartellonev1">
+</Property><Property Name="File di soluzione" Value="C:\Documents and Settings\Administrator.FIORE\Desktop\Cartellonev1.2 220406\Cartellonev1.2\Cartellonev1.sln">
+</Property><Property Name="Date" Value="sabato 19 maggio 2012">
+</Property><Property Name="Time" Value="17.03">
+</Property><Property Name="Numero di log" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="Cartellonev1.2" Source="Cartellonev1.2.vbproj" Description="Il file di progetto non richiede conversione.">
+</Event><Event ErrorLevel="3" Project="Cartellonev1.2" Source="Cartellonev1.2.vbproj" Description="Conversione non necessaria">
+</Event><Event ErrorLevel="0" Project="" Source="Cartellonev1.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="Cartellonev1.sln" Description="Converted">
+</Event></UpgradeLog>
